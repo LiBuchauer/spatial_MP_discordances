@@ -1,0 +1,23 @@
+
+# don't upload figures
+*.pdf
+*.jpeg
+*.png
+
+# don't upload any pf the MCMC chains and pppval results
+*_chain_sample.csv
+*_posterior_predictive_results.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+.DS_Store
