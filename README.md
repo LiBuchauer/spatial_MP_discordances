@@ -6,8 +6,7 @@ The repository contains code associated with the parameter estimation process in
 
 The repository contains analysis scripts associated with different parts of the study. Each part is contained in its own directory as follows:
 
-- parameter_estimation - Protein translation and decay rate estimation based on mRNA and protein profiles
-This part requires python 3.8 and the third-party packages numpy, matplotlib, scipy, seaborn, pandas, scipy, emcee and corner.
+- parameter_estimation - Protein translation and decay rate estimation based on mRNA and protein profiles. This part requires python 3.8 and the third-party packages numpy, matplotlib, scipy, seaborn, pandas, scipy, emcee and corner. The parameter process is outlined in five jupyter notebooks (N1 - N5) which detail data preprocessing, prior construction, MCMC sampling and result validation. The directory further contains three external data sets used for comparison to the results derived here and some code meant to facilitate large-scale parameter estimation on computational clusters.
 
 ## Additional data
 
