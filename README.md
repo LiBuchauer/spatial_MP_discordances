@@ -1,6 +1,6 @@
 # Computational Methods for the manuscript "Spatial discordances between mRNAs and proteins in the intestinal epithelium"
 
-The repository contains code associated with the parameter estimation process in the manuscript "Spatial discordances between mRNAs and proteins in the intestinal epithelium" by Yotam Harnik, Lisa Buchauer, Shani Ben-Moshe, Yishai Levine, Alon Savidor, Raya Eilam, Andreas E. Moor and Shalev Itzkovitz.
+The repository contains code associated with the parameter estimation process in the manuscript "Spatial discordances between mRNAs and proteins in the intestinal epithelium" by Yotam Harnik, Lisa Buchauer, Shani Ben-Moshe, Yishai Levin, Alon Savidor, Raya Eilam, Andreas E. Moor and Shalev Itzkovitz.
 
 ## Structure of the repository
 
