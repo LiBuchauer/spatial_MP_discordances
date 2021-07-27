@@ -8,12 +8,18 @@
 *_chain_sample.csv
 *_posterior_predictive_results.csv
 
+# don't upload jobs
+*.sh
+
+# don't upload submission files
+submission.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook
+# Jupyter Notebook stuff
 .ipynb_checkpoints
 
 # IPython
@@ -21,3 +27,6 @@ profile_default/
 ipython_config.py
 
 .DS_Store
+
+# dont' upload results here; they are at zenodo
+RESULTS
